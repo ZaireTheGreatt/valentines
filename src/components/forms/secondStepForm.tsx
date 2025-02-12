@@ -9,12 +9,12 @@ export const SecondStepForm = () => {
 
       <div className="flex flex-row gap-2 items-center justify-center">
         <Calendar width="30px" height="30px" />
-        <p>Febuary 14, 2025</p>
+        <p>Febuary 15, 2025</p>
       </div>
 
       <div className="flex flex-row gap-2 items-center justify-center">
         <MapPin width="30px" height="30px" />
-        <p>Romantic Rooftop Restaurant</p>
+        <p>MOA</p>
       </div>
     </section>
   );
